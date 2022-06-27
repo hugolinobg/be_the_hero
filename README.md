@@ -1,4 +1,4 @@
-## Be The Hero
+## App Be The Hero - React Native
 <br/>
 
 <div align="center">
